@@ -1,7 +1,7 @@
 {
     "Name": "A multi-subject and multi-session EEG dataset for modelling human visual object recognition",
     "BIDSVersion": "1.10.0",
-    "Authors": [                
+    "Authors": [
         "Shuning Xue",
         "Bu Jin",
         "Jie Jiang",
@@ -9,6 +9,7 @@
         "Jin Zhou",
         "Changyong Wang",
         "Jing Liu"
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005589.v1.0.0",
+    "License": "CC0"
 }
-
