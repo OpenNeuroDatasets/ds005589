@@ -1,5 +1,15 @@
 {
 	"onset":{"Description":"onset of event in ms"},
 	"duration":{"Description":"empty"},
-	"eventnumber":{"Description":"the event number"}
+	"eventnumber":{"Description":"the event number"},
+	"StimulusPresentation":{
+        "OperatingSystem": "Windows 10",
+        "SoftwareName": "psychopy",
+        "Code": "https://openneuro.org/datasets/ds005589",
+        "ScreenDistance": 1.0,
+        "ScreenRefreshRate": 60,
+        "ScreenResolution": [1920, 1080],
+        "HeadStabilization": "none"
+    }
+    
 }
