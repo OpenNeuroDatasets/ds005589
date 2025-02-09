@@ -1,0 +1,5 @@
+{
+	"onset":{"Description":"onset of event in ms"},
+	"duration":{"Description":"empty"},
+	"eventnumber":{"Description":"the event number"}
+}
