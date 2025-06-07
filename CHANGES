@@ -1,3 +1,5 @@
+1.0.3 2025-06-07
+  - files of sub-05 ses-01 lowSpeed-run-03 lowSpeed-run-04 re-uploaded
 1.0.2 2025-02-26
   - We added the fields ``DatasetType'', ``GeneratedBy'', and ``SourceDatasets'' to the ``dataset_description.json'' file.  We created the following JSON files:  ``task-lowSpeed_run-01_events.json'' ``task-lowSpeed_run-02_events.json'' ``task-lowSpeed_run-03_events.json'' ``task-lowSpeed_run-04_events.json'' ``task-rsvp_run-01_events.json'' ``task-rsvp_run-02_events.json'' ``task-rsvp_run-03_events.json'' ``task-rsvp_run-04_events.json'' to describe the ``onset'', ``duration'', ``event number'', and ''StimulusPresentation''.
 1.0.1 2024-10-26
